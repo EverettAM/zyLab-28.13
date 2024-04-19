@@ -6,7 +6,7 @@ int main(){
   return 0;
   //update from VS code
   ItemToPurchase item1, item2;
-  string itemname;
+  string itemName;
   int itemPrice, itemQuantity;
   
 
