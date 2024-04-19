@@ -6,7 +6,7 @@ using namespace std;
 void ItemsToPurchase::SetName(string newName){
   itemName = newName;
 }
-string ItemsToPurchase::GetName(){
+String ItemsToPurchase::GetName(){
   return name;
 }
 
