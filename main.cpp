@@ -5,6 +5,9 @@ using namespace std;
 int main(){
   return 0;
   //update from VS code
+  ItemToPurchase item1, item2;
+  string itemname;
+  int itemPrice, itemQuantity;
   
 
 }
