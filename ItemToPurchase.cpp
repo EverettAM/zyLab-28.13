@@ -7,7 +7,7 @@ void ItemToPurchase::SetName(string newName){
   itemName = newName;
 }
 string ItemToPurchase::GetName(){
-  return name;
+  return newName;
 }
 
 void ItemToPurchase::SetPrice(int newPrice){
